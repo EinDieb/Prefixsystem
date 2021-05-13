@@ -9,6 +9,7 @@
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.14.4.jar!/" />
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.15.2.jar!/" />
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.16.5.jar!/" />
+      <root url="jar://F:/Speicher/Alle MC Server/spigot-1.10.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -20,6 +21,7 @@
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.14.4.jar!/" />
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.15.2.jar!/" />
       <root url="jar://F:/Speicher/Alle MC Server/spigot-1.16.5.jar!/" />
+      <root url="jar://F:/Speicher/Alle MC Server/spigot-1.10.2.jar!/" />
     </SOURCES>
   </library>
 </component>
